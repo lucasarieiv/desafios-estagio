@@ -18,8 +18,8 @@ Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, fa
 - [x] Número de dias no mês em que o valor de faturamento diário foi superior à média mensal.
 
 **IMPORTANTE**:
-a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
-b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
+- a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
+- b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 
 ```
 $ node desafio3/main.js 
@@ -50,8 +50,8 @@ Outros: 10.98115301849447%
 
 IMPORTANTE:
 
-a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
-b) Evite usar funções prontas, como, por exemplo, reverse;
+- a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
+- b) Evite usar funções prontas, como, por exemplo, reverse;
 
 ```
 $ node desafio5/main.js 
