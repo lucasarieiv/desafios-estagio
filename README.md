@@ -36,3 +36,13 @@ Número de dias no mês em que o valor de faturamento diário foi superior à m�
 - Outros – R$19.849,53
 
 - [x] Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.
+
+```
+$ node desafio4/main.js 
+SP: 37.52845624346717%
+RJ: 20.291360952794975%
+MG: 16.170548370275327%
+ES: 15.02848141496807%
+Outros: 10.98115301849447%
+```
+
