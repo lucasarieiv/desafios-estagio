@@ -27,4 +27,12 @@ O menor valor de faturamento ocorrido em um dia do mês foi: 373.7838
 O maior valor de faturamento ocorrido em um dia do mês foi: 48924.2448
 Número de dias no mês em que o valor de faturamento diário foi superior à média mensal: 10
 ```
+## Desafio #4
+4) Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
+- SP – R$67.836,43
+- RJ – R$36.678,66
+- MG – R$29.229,88
+- ES – R$27.165,48
+- Outros – R$19.849,53
 
+- [x] Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.
